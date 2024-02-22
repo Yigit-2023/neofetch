@@ -9394,9 +9394,8 @@ EOF
         "Pardus"*)
             set_colors 8 8 8 8 8
             read -rd '' ascii_data <<'EOF'
-${c1} .
-
-               /\
+${c1} 
+	       /\
               /  \
              /    \
             /      \
